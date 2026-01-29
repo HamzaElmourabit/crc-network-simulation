@@ -229,7 +229,5 @@ This project demonstrates:
 
 ---
 
-# 👨‍💻 Author
 
-Your Name  
-Computer Networks Project  
+
